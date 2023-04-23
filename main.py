@@ -14,4 +14,3 @@ class Dog:
 
 dog1 = Dog('Bobik', 12 , 'Brown')
 print(dog1.name)
-aalaa
